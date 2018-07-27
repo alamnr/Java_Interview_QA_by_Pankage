@@ -17,6 +17,11 @@ Site List
 - https://www.youtube.com/watch?v=PIg6F9TayOk
 - https://www.youtube.com/watch?v=zbH59X281f4
 
+More on Hibernate 
+- https://www.youtube.com/watch?v=6Rdi_-b67cs&list=PLF9tovyahfL2Ge8xjs6PTzFOUlRA6_egu
+- https://www.youtube.com/watch?v=XiYwepaZeHQ
+- https://www.youtube.com/watch?v=nb4kKVDc4cE
+
 
 - https://www.youtube.com/watch?v=bEjKBeB0QKQ
 - https://www.youtube.com/watch?v=12uFYsZrick
