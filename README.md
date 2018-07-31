@@ -6,6 +6,8 @@ Site List
 - https://www.toptal.com/java/interview-questions
 - https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp
 
+- http://www.javainterview.in/p/spring-interview-questions.html
+
 
 # Inheritance Mapping video
 
